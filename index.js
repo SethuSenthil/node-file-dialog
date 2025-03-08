@@ -42,4 +42,4 @@ function askdialog(config) {
   return promise;
 }
 
-module.exports = askdialog;
+export default askdialog;
